@@ -1,0 +1,11 @@
+create a folder
+name as project
+open that folder then open cdm 
+mkdir git_demo
+cd git_demo
+git config --global user.name"name"
+git config --global user.email"varungkumar1997@gmail.com"
+git config --list
+git init
+notepad file1.txt
+notepad file2.txt
